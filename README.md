@@ -11,20 +11,7 @@ Welcome to my AI mastery journey! This repository is a structured and deeply han
 - Create real-world projects & AI tools
 - Land top AI engineer roles (₹30+ LPA goal)
 
----
-
-## 📅 Progress Tracker
-
-| Day | Topics Covered | Status |
-|-----|----------------|--------|
-| Day 1 | What is AI, Types of AI, AI vs ML | ✅ Completed |
-| Day 2 | ML, DL, Supervised, Unsupervised, RL | ✅ Completed |
-| Day 3 | Transformers, Attention, Tokenization | 🟡 In Progress |
-| Day 4 | Prompting Techniques, LLM Pipeline | 🔜 |
-| Day 5 | APIs, LangChain, RAG, Agents | 🔜 |
-
----
-
+--
 ## 📂 Structure
 - Each folder contains:
   - 📘 Full Notes
