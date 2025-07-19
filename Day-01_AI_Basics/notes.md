@@ -1,4 +1,6 @@
 📘 Day 01: Foundations of Artificial Intelligence (AI)
+
+
 📌 1. What is Artificial Intelligence?
 Artificial Intelligence (AI) is a branch of computer science that focuses on creating systems that can perform tasks that typically require human intelligence.
 
